@@ -1,5 +1,9 @@
 # Torob MCP - Price comparison intelligence for AI agents
 
+> This fork includes security fixes and `compare_shopping_list`. Use the local
+> build from **behnawwm/torob-mcp-mmdju**, rather than the upstream demo or install
+> command below. See [fork setup and upstream PRs](FORK.md).
+
 ![Torob MCP banner](assets/torob-mcp.png)
 
 [![Live verify](https://github.com/mmdju/torob-mcp/actions/workflows/verify.yml/badge.svg)](https://github.com/mmdju/torob-mcp/actions/workflows/verify.yml)
